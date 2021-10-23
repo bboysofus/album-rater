@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Source+Sans+Pro:wght@200&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Source Sans Pro";
+}
+
+.albums{
+    height: 5000px;
+    width: 100%;
+    border: 2px solid black;
+    border-radius: 10px;
+}
