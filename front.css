@@ -14,7 +14,9 @@ body{
 }
 
 main{
-    background-color: rgba(0, 0, 0, 0.952);
+    display: block;
+    place-items: center;
+    background-color: rgba(0, 0, 0, 0.876);
     width: 100%;
     padding: 30px;
 }
